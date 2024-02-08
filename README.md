@@ -11,7 +11,9 @@
 8) Comment out everything and enter `###### Debian Main sid repos #####
 deb http://deb.debian.org/debian/ unstable main contrib non-free-firmware
 deb-src http://deb.debian.org/debian/ unstable main contrib non-free-firmware` ( you can find the txt file in this repo )
-Save using **CTRL + O** and Enter.
-Exit using **CTRL + X**.
-now do `apt update`
-and `apt full-upgrade`
+9) Save using **CTRL + O** and Enter.
+10) Exit using **CTRL + X**.
+11) now do `apt update`
+12) and `apt full-upgrade`
+
+
