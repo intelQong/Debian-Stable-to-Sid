@@ -1,4 +1,4 @@
-# Debian stable to sid/unstable tutorial for beginners
+# Debian stable to sid/unstable instructions
 
 ## Steps :
 1) Go to [Debian website](https://www.debian.org/) and download netinst.iso file
